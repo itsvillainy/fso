@@ -9,3 +9,7 @@ Run the following command
 ```
 $npm install
 ```
+
+### Testing
+
+This is a test
